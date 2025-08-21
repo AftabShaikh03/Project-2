@@ -55,6 +55,10 @@ I simpliy merged all sheets in one dashboard and locate it nicely for analysis a
 
 I have also attachted the dashboard picture and Tableau file below.
 
+Tableau file atteached is password required file 
+ username - root 
+ password - AtoZ@786
+
 <img width="1920" height="1080" alt="Project 2 Dashboard" src="https://github.com/user-attachments/assets/5e7ee824-b81f-4cd2-9f10-ac28f48f0973" />
 
 
