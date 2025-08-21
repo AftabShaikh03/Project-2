@@ -1,4 +1,4 @@
-## Sales Insights 
+# Sales Insights 
 
  Objective - I have taken a large data sample of a company name xyz and doing analysis on it to unlock sales Insights that are not visible before for sales team for decision support & automate them to reduced mannual time spent in data gathering.
 
@@ -7,7 +7,7 @@ and creating the dashboard using Tableau that shows the revnue yearly as well as
 
 Now, to make this project I have taken a large data sample gathered from the company and convert it into MySQL to do analysis on it. and the steps of MySQL is given below.
 
-# Data analysis using MySQL - # 
+## Data analysis using MySQL - ##
 
 1. Show all customer records
 
