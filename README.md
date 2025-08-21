@@ -1,8 +1,8 @@
 # Sales Insights 
 
- Objective - I have taken a large data sample of a company name xyz and doing analysis on it to unlock sales Insights that are not visible before for sales team for decision support & automate them to reduced mannual time spent in data gathering.
+ Objective - I have taken a large data sample of a company name xyz and doing analysis on it to unlock sales Insights that are not visible before for sales team for decision support & automate them to reduced manual time spent in data gathering.
 
-and creating the dashboard using Tableau that shows the revnue yearly as well as monthly and the quantity of sales and most importantly to find the top 5 products as well as customers. These are the Objectives to make this project. 
+and creating the dashboard using Tableau that shows the revenue yearly as well as monthly and the quantity of sales and most importantly to find the top 5 products as well as customers. These are the Objectives to make this project. 
 
 
 Now, to make this project I have taken a large data sample gathered from the company and convert it into MySQL to do analysis on it. and the steps of MySQL is given below.
